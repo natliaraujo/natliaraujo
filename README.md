@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Neoenergia
 - 🌱 I’m currently learning Computer Engineering at the University of Brasília (UnB)
-- 📫 You can reach me through e-mail or the social media links in this page
+- 📫 You can reach me through e-mail
 - ⚡ Fun fact: Although I'm currently graduating in Computer Engineering, I'm already graduated in Law
 
 ###
